@@ -1,1 +1,1 @@
-# Captcha-Solver-with-emojis-also
+# CAPTCHA SOLVER WITH EMOJIS
